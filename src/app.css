@@ -1,0 +1,13 @@
+.navbar {
+    border-bottom: 2px solid #001122;
+    cursor: pointer;
+    padding: 15px 0;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+.mr-10 {
+    margin-right: 10px;
+}
